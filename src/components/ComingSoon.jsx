@@ -1,3 +1,5 @@
+import WebsiteQR from "./qr";
+
 export default function ComingSoon() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-yellow-100 px-4">
@@ -23,6 +25,7 @@ export default function ComingSoon() {
         </button>
 
         <p className="text-xs text-gray-500 mt-4">© 2025 Crumbella Innovative Foods</p> */}
+        <WebsiteQR />
       </div>
     </div>
   );
