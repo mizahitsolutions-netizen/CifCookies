@@ -25,7 +25,7 @@ export default function ComingSoon() {
         </button>
 
         <p className="text-xs text-gray-500 mt-4">© 2025 Crumbella Innovative Foods</p> */}
-        <WebsiteQR />
+        {/* <WebsiteQR /> */}
       </div>
     </div>
   );
